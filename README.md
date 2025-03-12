@@ -1,4 +1,8 @@
-## Hi there 👋
+## traurbtw
+
+# About me 
+гуд кодинг C#, C++
+
 
 <!--
 **traurbtw/traurbtw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
