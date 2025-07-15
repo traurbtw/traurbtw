@@ -11,5 +11,5 @@ Telegram channel
 [traurbtw](https://t.me/traurbtw)  
 Telegram account
 [aimhook](https://t.me/aimhook)  
-My studio 
+Telegram Studio
 [traurstudio](https://t.me/traurstudio)
