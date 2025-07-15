@@ -14,5 +14,4 @@ Telegram account
 [aimhook](https://t.me/aimhook)  
 Telegram Studio
 [traurstudio](https://t.me/traurstudio)  
-Telegram reviews
-[reviewstraur](https://t.me/reviewstraur)
+
