@@ -10,6 +10,6 @@
 Telegram channel
 [traurbtw](https://t.me/traurbtw)  
 Telegram account
-[aimhook](https://t.me/aimhook)
-ЗАКАЗАТЬ ПРОЕКТ  
+[aimhook](https://t.me/aimhook)  
+My studio 
 [traurstudio](https://t.me/traurstudio)
