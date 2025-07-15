@@ -8,10 +8,9 @@
 
 
 # My contacts 𓆰𓆪
-Telegram channel
-[traurbtw](https://t.me/traurbtw)  
+Telegram Channel
+[traurstudio](https://t.me/traurstudio)  
 Telegram account
 [aimhook](https://t.me/aimhook)  
-Telegram Studio
-[traurstudio](https://t.me/traurstudio)  
+
 
